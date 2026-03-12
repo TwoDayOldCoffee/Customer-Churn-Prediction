@@ -73,6 +73,3 @@ The dataset contains customer information including:
 - XGBoost
 - matplotlib, seaborn
 
-## License
-
-MIT License
