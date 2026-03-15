@@ -48,7 +48,6 @@ st.write("Usage per Week:", round(usage_per_week,2))
 st.write("Calls per Week:", round(calls_per_week,2))
 st.write("Revenue per Week:", round(revenue_per_week,2))
 
-# Prediction
 if st.button("Predict Churn"):
     prediction = model.predict(input_data)[0]
     probability = model.predict_proba(input_data)[0][1]
