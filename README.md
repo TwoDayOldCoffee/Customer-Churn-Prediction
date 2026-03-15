@@ -125,4 +125,5 @@ Features of the dashboard include:
 - Deploy the Streamlit application online  
 - Integrate SHAP explanations directly into the dashboard  
 - Experiment with additional machine learning models  
-- Implement a fully automated ML pipeline
+- Implement automated hyperparameter tuning
+- Add model monitoring and logging for predictions
